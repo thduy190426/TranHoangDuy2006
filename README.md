@@ -82,8 +82,3 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="random quote"/>
 </p>
-
-<!-- Snake animation -->
-<p align="center">
-  <img src="https://github.com/TranHoangDuy2006/TranHoangDuy2006/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
