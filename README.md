@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/hoangduy" target="blank"><img src="https://img.shields.io/twitter/follow/hoangduy?logo=twitter&style=for-the-badge" alt="hoangduy" /></a> </p>
 
-- 🔭 I’m currently working on [YogaManagement](https://github.com/TranHoangDuy2006/IT104_YogaManagement)
+- 🔭 I’m currently working on project: [YogaManagement](https://github.com/TranHoangDuy2006/IT104_YogaManagement)
 
-- 🌱 I’m currently learning **React, Axios and Typescript**
+- 🌱 I’m currently learning: **React, Axios and Typescript**
 
-- 👯 I’m looking to collaborate on [QuizzizTest](https://github.com/TranHoangDuy2006/Project_FrontEnd_Fundamental)
+- 👯 I’m looking to collaborate on: [QuizzizTest](https://github.com/TranHoangDuy2006/Project_FrontEnd_Fundamental)
 
-- 🤝 I’m looking for help with [C_StudentManagement](https://github.com/TranHoangDuy2006/Project_C_TranHoangDuy-)
+- 🤝 I’m looking for help with: [C_StudentManagement](https://github.com/TranHoangDuy2006/Project_C_TranHoangDuy-)
 
-- 👨‍💻 All of my projects are available at [https://n24dtcn021.w3spaces.com/](https://n24dtcn021.w3spaces.com/)
+- 👨‍💻 All of my projects are available at: [https://n24dtcn021.w3spaces.com/](https://n24dtcn021.w3spaces.com/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/itzduy2k6.1904/](https://www.facebook.com/itzduy2k6.1904/)
+- 📝 I regularly write articles on: [https://www.facebook.com/itzduy2k6.1904/](https://www.facebook.com/itzduy2k6.1904/)
 
-- 💬 Ask me about **HTML, CSS and Javascript**
+- 💬 Ask me about: **HTML, CSS and Javascript**
 
-- 📫 How to reach me **duyhoangtran2006@gmail.com**
+- 📫 How to reach me: **duyhoangtran2006@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/](https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/](https://www.linkedin.com/in/ho%C3%A0ng-duy-7241a7354/)
 
-- ⚡ Fun fact **What I am passionate about, I will definitely do.**
+- ⚡ Fun fact: **What I am passionate about, I will definitely do.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
