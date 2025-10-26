@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=lucthienphong1120&theme=onedark" alt="GitHub Trophies" />
+  <a href="https://github.com/tranhoangduy2006/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=tranhoangduy2006&theme=onedark" alt="GitHub Trophies" />
   </a>
 </p>
 
