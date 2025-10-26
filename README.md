@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-git-main.ryo-ma.vercel.app/?username=tranhoangduy2006&theme=algolia" />
+    [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </p>
 
