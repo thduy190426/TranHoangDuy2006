@@ -41,9 +41,6 @@
     <a href="https://github.com/tranhoangduy2006" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" />
   </a>
-  <a href="https://gitlab.com/tranhoangduy2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gitlab.svg" height="30" width="40" />
-  </a>
   <a href="https://stackoverflow.com/users/your-id" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
   </a>
@@ -52,9 +49,6 @@
   </a>
   <a href="https://dev.to/your-username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-  </a>
-  <a href="https://t.me/your-username" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" height="30" width="40" />
   </a>
   <a href="https://www.reddit.com/user/your-username" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" height="30" width="40" />
