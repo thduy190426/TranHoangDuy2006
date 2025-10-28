@@ -108,6 +108,9 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake-dark.svg#gh-dark-mode-only)
 
+## 📈 ɢɪᴛʜᴜʙ ᴍᴇᴛʀɪᴄs
+![Metrics](https://metrics.lecoq.io/tranhoangduy2006?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FHo_Chi_Minh)
+
 ## ☕ ʙᴜʏ ᴍᴇ ᴀ ᴄᴏғғᴇᴇ
 <p align="center">
   <a href="https://www.buymeacoffee.com/yourprofile">
