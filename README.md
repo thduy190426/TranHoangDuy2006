@@ -100,6 +100,7 @@
 ![GitHub Snake Light](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tranhoangduy2006/tranhoangduy2006/output/snake-dark.svg#gh-dark-mode-only)
 
+### 🤡 ᴊᴏᴋᴇ
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ## 🎵 ɴᴏᴡ ᴘʟᴀʏɪɴɢ ᴍᴜsɪᴄ
