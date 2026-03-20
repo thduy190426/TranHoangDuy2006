@@ -1,6 +1,6 @@
 <h1 align="center">ʜɪ, ɪ'ᴍ ᴛʀᴀɴʜᴏᴀɴɢᴅᴜʏ</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&size=20&center=true&vCenter=true&width=600&lines=ᴀ+ᴛɪɴʏ+ᴄʀᴇᴀᴛᴜʀᴇ+ɪɴ+ᴛʜɪs+ᴠᴀsᴛ+ᴡᴏʀʟᴅ.&pause=1000&repeat=true" />
+  <marquee>ᴀ ᴛɪɴʏ ᴄʀᴇᴀᴛᴜʀᴇ ɪɴ ᴛʜɪs ᴠᴀsᴛ ᴡᴏʀʟᴅ.</marquee>
 </h3>
 
 <p align="center">
